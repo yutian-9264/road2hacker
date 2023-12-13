@@ -1,2 +1,10 @@
-# road2hacker
-Study records on road to become a hacker.
+theoretical basis: http://www.catb.org/~esr/faqs/hacker-howto.html
+
+## STATIONS
+### Python
+- [ ] http://cscircles.cemc.uwaterloo.ca/
+### C
+### C++
+### Perl
+### Lisp
+### Unix
