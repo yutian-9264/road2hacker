@@ -4,9 +4,11 @@ theoretical basis: http://www.catb.org/~esr/faqs/hacker-howto.html
 
 ## STATIONS
 ### Python
-- [ ] http://cscircles.cemc.uwaterloo.ca/
+- [ ] http://cscircles.cemc.uwaterloo.ca
 ### C
+- [ ] https://avsteele.com/C_Programming/
 ### C++
+- [ ] https://www.learncpp.com
 ### Perl
 ### Lisp
 ### Unix
