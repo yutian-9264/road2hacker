@@ -9,9 +9,12 @@ theoretical basis: http://www.catb.org/~esr/faqs/hacker-howto.html
 <img src="My-Progress-Computer-Science-Circles.png" alt="progress" width="80"/>
 
 ### C
-- [ ] https://avsteele.com/C_Programming/
+- [ ] https://beej.us/guide/bgc/html/split/
 ### C++
 - [ ] https://www.learncpp.com
 ### Perl
 ### Lisp
 ### Unix
+- [ ] https://archlinuxstudio.github.io/ArchLinuxTutorial/#/
+### Network Programming
+- [ ] https://beej.us/guide/bgnet/html/split/
