@@ -18,6 +18,6 @@ theoretical basis: http://www.catb.org/~esr/faqs/hacker-howto.html
 ### Perl
 ### Lisp
 ### Unix
-- [ ] https://archlinuxstudio.github.io/ArchLinuxTutorial/#/
+
 ### Network Programming
 - [ ] https://beej.us/guide/bgnet/html/split/
