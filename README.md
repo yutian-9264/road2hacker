@@ -8,6 +8,9 @@ theoretical basis: http://www.catb.org/~esr/faqs/hacker-howto.html
 
 <img src="My-Progress-Computer-Science-Circles.png" alt="progress" width="80"/>
 
+### Go
+- [ ] https://go.dev/tour/list
+- [ ] https://go.dev/doc/effective_go
 ### C
 - [ ] https://beej.us/guide/bgc/html/split/
 ### C++
