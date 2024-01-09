@@ -11,6 +11,7 @@ theoretical basis: http://www.catb.org/~esr/faqs/hacker-howto.html
 ### Go
 - [ ] https://go.dev/tour/list
 - [ ] https://go.dev/doc/effective_go
+- [ ] https://docs.google.com/document/d/1Zb9GCWPKeEJ4Dyn2TkT-O3wJ8AFc-IMxZzTugNCjr-8/edit?usp=drivesdk
 ### C
 - [ ] https://beej.us/guide/bgc/html/split/
 ### C++
